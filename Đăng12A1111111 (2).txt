@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="vi">
+<title>Trang web có ?nh n?n</title>
+ <body >
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" background-size: cover
+>
+    <title>Gi?i thi?u phim</title>
+    <style>
+    
+   		body {
+  background-image: url('https://t3.ftcdn.net/jpg/09/16/54/30/360_F_916543077_vFHgFOkWYQQz9AbWnl9be7rjq29Kaohy.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: brightness(0.8);
+}
+        body {
+            font-family: sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1rem 0;
+        }
+
+        .movie-list {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            padding: 20px;
+        }
+
+        .movie-item {
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            margin: 10px;
+            padding: 15px;
+            width: 300px;
+        }
+
+        .movie-item img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
+        }
+
+        .movie-item h2 {
+            margin-top: 10px;
+        }
+
+        .movie-item p {
+            color: #666;
+        }
+        a:visited {
+  color: purple;
+    </style>
+</head>
+
+<body >
+    <header>
+        <h1>Chào m?ng d?n v?i Trang Gi?i Thi?u Phim</h1>
+    </header>
+
+    <section class="movie-list">
+        <div class="movie-item">
+            <img src="https://thumb.viva.id/vivabanyuwangi/665x374/2024/09/14/66e5867bc3e8b-oppenheimer-menggali-dilema-sang-bapak-bom-atom_banyuwangi.jpg" alt="Tên phim 1">
+            <h2>oppenheimer</h2>
+            <p>Th? lo?i: ti?u s? – tâm lý – gi?t gân – chính k?ch </p>
+            <p>Gi?i thi?u:Oppenheimer là m?t b? phim di?n ?nh Anh-M? thu?c th? lo?i ti?u s? tâm lý gi?t gân chính k?ch công chi?u vào nam 2023 do Christopher Nolan làm d?o di?n, vi?t k?ch b?n và d?ng s?n xu?t. Tác ph?m xoay quanh Robert Oppenheimer, m?t nhà v?t lý lý thuy?t ngu?i M? g?c Do Thái, ngu?i dã h?p tác phát tri?n ra bom nguyên t? trong d? án Manhattan, cùng v?i dó là nh?ng câu chuy?n v? d?i tu và ho?t d?ng chính tr? c?a ông.</p>
+             <a href="https://youtu.be/bK6ldnjE3Y0?si=EV97Gy_0uOUDBwq-"> trailer ppenheimer </a>     
+             </div>
+
+        <div class="movie-item">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtcoOIyQ6EJJ0d_XiQqQwpFJuLNaL9XlFQbg&s" alt="Tên phim 2">
+            <h2>Shigatsu wa Kimi no Uso Live Action</h2>
+            <p>Th? lo?i: Chính k?ch-Lãng m?n</p>
+            <p>gi?i thi?u: Shigatsu wa kimi no uso?, "Tháng Tu là l?i nói d?i c?a em") là phim di?n ?nh tình c?m Nh?t B?n 2016 dành cho gi?i tr? do Shinjo Takehiko d?o di?n, Tatsui Yukari  vi?t k?ch b?n, v?i dàn di?n viên có s? góp m?t c?a Hirose Suzu và Yamazaki Kento d?a trên lo?t truy?n manga L?i nói d?i tháng Tu c?a tác gi? Arakawa Naoshi . Phim du?c phát hành t?i Nh?t B?n b?i Toho vào ngày 10 tháng 9 nam 2016.</p>
+            <a href="https://youtu.be/FLS4TdJPFVQ?si=NOJj5A8yrfoRgaDm">trailer Shigatsu wa Kimi no Uso Live Action </a>
+           
+        </div>
+       
+        <div class="movie-item">
+            <img src="https://play-lh.googleusercontent.com/cASdq2TLZhIdhzjpX0iN3YBGD8gaGxOeX8gxKsJPRm5S8pUkahqVD3XUE0ZEQO2-LSeX=w240-h480-rw" alt="Tên phim 3">
+            <h2>The Shining</h2>
+            <p>Th? lo?i: Kinh d?</p>
+            <p>Gi?i thi?u: The Shining là m?t b? phim kinh d? tâm lý du?c d?o di?n b?i Stanley Kubrick, k?ch b?n du?c vi?t b?i Diane Johnson cùng v?i s? tham gia c?a các di?n viên Jack Nicholson, Shelley Duvall, Danny Lloyd và Scatman Crothers. Phim d?a trên cu?n ti?u thuy?t cùng tên c?a nhà van Stephen King. Gi?a phim và ti?u thuy?t có nh?ng s? khác nhau dáng k?: trong phim, Jack Torrance là nhà van và có công vi?c là trông coi khách s?n Overlook vào mùa dông.</p>
+            <a href="https://youtu.be/FZQvIJxG9Xs?si=r9jP3f1LA946l_p2">triler The Shining  </a>
+        </div>
+        
+         <div class="movie-item">
+            <img src="https://cdn-media.sforum.vn/storage/app/media/wp-content/uploads/2023/11/ke-an-hon-thumbnail.jpg" alt="Tên phim 4">
+            <h2>K? An H?n</h2>
+            <p>Th? lo?i: kinh d? </p>
+            <p>gi?i thi?u:K? an h?n là m?t b? phim di?n ?nh Vi?t Nam thu?c th? lo?i kinh d? c? trang du?c chuy?n th? t? ti?u thuy?t cùng tên c?a nhà van Th?o Trang ra m?t vào nam 2023 và là b? phim kinh d? Vi?t có doanh thu phòng vé cao nh?t tính d?n h?t nam 2023, </p>
+            <a href="https://youtu.be/xWh0g4rKGjI?si=fidGnmq3wdLfyn8m">trailer K? an h?n</a>
+        </div>
+        
+        <div class="movie-item">
+            <img src="https://m.media-amazon.com/images/M/MV5BNTEyNmEwOWUtYzkyOC00ZTQ4LTllZmUtMjk0Y2YwOGUzYjRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" alt="Tên phim 5">
+            <h2>Sen to Chihiro no Kamikakushi</h2>
+            <p>Th? lo?i: tình c?m -phiêu luu - siêu nhiên </p>
+            <p>gi?i thi?u:là m?t b? phim di?n ?nh ho?t hình k? ?o c?a Nh?t B?n công chi?u nam 2001, do Miyazaki Hayao làm d?o di?n kiêm ph? trách k?ch b?n. Tác ph?m do xu?ng phim Studio Ghibli s?n xu?t </p>
+            <a href="https://youtu.be/ByXuk9QqQkk?si=VbgDo0eNSKYzNcA6">trailer Sen to Chihiro no Kamikakushi </a>
+        </div>
+        
+        <div class="movie-item">
+            <img src="https://i.scdn.co/image/ab67616d00001e02e710c1f5b228046932790031">
+            <h2>shawshank redemption</h2>
+            <p>Th? lo?i:chính k?ch - tâm lý </p>
+            <p>gi?i thi?u: The Shawshank Redemption là b? phim chính k?ch - tâm lý c?a Hoa K? phát hành vào ngày 22 tháng 9 nam 1994, do Frank Darabont vi?t k?ch b?n và d?o di?n, d?a trên ti?u thuy?t c?a Stephen King </p>
+            <a href="https://youtu.be/PLl99DlL6b4?si=8m-TaZ6KPZWZywlG">trailer shawshank redemption </a>
+        </div>
+
+
+        // Thêm nhi?u phim hon n?u mu?n.
+    </section>
+</body>
+</html>
