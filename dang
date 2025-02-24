@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="vi">
-<title>Trang web có ảnh nền</title>
+<title>chỉ đơn giản là phim</title>
+<link rel="icon" type="image/webp" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVn_Q4uacxs104eVjqvVsaBzn99c2fZXyU7YC03N__5L65aq5zIVpT62V5DkPWHP9ZcEI&usqp=CAU">
+
  <body >
 <head>
     <meta charset="UTF-8">
@@ -10,7 +12,7 @@
     <style>
     
    		body {
-  background-image: url('https://t3.ftcdn.net/jpg/09/16/54/30/360_F_916543077_vFHgFOkWYQQz9AbWnl9be7rjq29Kaohy.jpg');
+  background-image: url('https://vi.alongwalker.co/img/post_images/631d51595e32cd7f6098f50d66db4ae3.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   filter: brightness(0.8);
@@ -73,7 +75,11 @@
             <img src="https://thumb.viva.id/vivabanyuwangi/665x374/2024/09/14/66e5867bc3e8b-oppenheimer-menggali-dilema-sang-bapak-bom-atom_banyuwangi.jpg" alt="Tên phim 1">
             <h2>oppenheimer</h2>
             <p>Thể loại: tiểu sử – tâm lý – giật gân – chính kịch </p>
-            <p>Giới thiệu:Oppenheimer là một bộ phim điện ảnh Anh-Mỹ thuộc thể loại tiểu sử tâm lý giật gân chính kịch công chiếu vào năm 2023 do Christopher Nolan làm đạo diễn, viết kịch bản và đồng sản xuất. Tác phẩm xoay quanh Robert Oppenheimer, một nhà vật lý lý thuyết người Mỹ gốc Do Thái, người đã hợp tác phát triển ra bom nguyên tử trong dự án Manhattan, cùng với đó là những câu chuyện về đời tư và hoạt động chính trị của ông.</p>
+            <p>Giới thiệu:Oppenheimer là một bộ phim điện ảnh Anh-Mỹ thuộc thể loại tiểu sử tâm lý giật gân chính kịch công chiếu vào năm 2023 do Christopher Nolan làm đạo diễn, viết kịch bản và 
+
+đồng sản xuất. Tác phẩm xoay quanh Robert Oppenheimer, một nhà vật lý lý thuyết người Mỹ gốc Do Thái, người đã hợp tác phát triển ra bom nguyên tử trong dự án Manhattan, cùng với đó là 
+
+những câu chuyện về đời tư và hoạt động chính trị của ông.</p>
              <a href="https://youtu.be/bK6ldnjE3Y0?si=EV97Gy_0uOUDBwq-"> trailer ppenheimer </a>     
              </div>
 
@@ -81,7 +87,11 @@
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtcoOIyQ6EJJ0d_XiQqQwpFJuLNaL9XlFQbg&s" alt="Tên phim 2">
             <h2>Shigatsu wa Kimi no Uso Live Action</h2>
             <p>Thể loại: Chính kịch-Lãng mạn</p>
-            <p>giới thiệu: Shigatsu wa kimi no uso?, "Tháng Tư là lời nói dối của em") là phim điện ảnh tình cảm Nhật Bản 2016 dành cho giới trẻ do Shinjō Takehiko đạo diễn, Tatsui Yukari  viết kịch bản, với dàn diễn viên có sự góp mặt của Hirose Suzu và Yamazaki Kento dựa trên loạt truyện manga Lời nói dối tháng Tư của tác giả Arakawa Naoshi . Phim được phát hành tại Nhật Bản bởi Toho vào ngày 10 tháng 9 năm 2016.</p>
+            <p>giới thiệu: Shigatsu wa kimi no uso?, "Tháng Tư là lời nói dối của em") là phim điện ảnh tình cảm Nhật Bản 2016 dành cho giới trẻ do Shinjō Takehiko đạo diễn, Tatsui Yukari  viết kịch 
+
+bản, với dàn diễn viên có sự góp mặt của Hirose Suzu và Yamazaki Kento dựa trên loạt truyện manga Lời nói dối tháng Tư của tác giả Arakawa Naoshi . Phim được phát hành tại Nhật Bản bởi 
+
+Toho vào ngày 10 tháng 9 năm 2016.</p>
             <a href="https://youtu.be/FLS4TdJPFVQ?si=NOJj5A8yrfoRgaDm">trailer Shigatsu wa Kimi no Uso Live Action </a>
            
         </div>
@@ -90,7 +100,11 @@
             <img src="https://play-lh.googleusercontent.com/cASdq2TLZhIdhzjpX0iN3YBGD8gaGxOeX8gxKsJPRm5S8pUkahqVD3XUE0ZEQO2-LSeX=w240-h480-rw" alt="Tên phim 3">
             <h2>The Shining</h2>
             <p>Thể loại: Kinh dị</p>
-            <p>Giới thiệu: The Shining là một bộ phim kinh dị tâm lý được đạo diễn bởi Stanley Kubrick, kịch bản được viết bởi Diane Johnson cùng với sự tham gia của các diễn viên Jack Nicholson, Shelley Duvall, Danny Lloyd và Scatman Crothers. Phim dựa trên cuốn tiểu thuyết cùng tên của nhà văn Stephen King. Giữa phim và tiểu thuyết có những sự khác nhau đáng kể: trong phim, Jack Torrance là nhà văn và có công việc là trông coi khách sạn Overlook vào mùa đông.</p>
+            <p>Giới thiệu: The Shining là một bộ phim kinh dị tâm lý được đạo diễn bởi Stanley Kubrick, kịch bản được viết bởi Diane Johnson cùng với sự tham gia của các diễn viên Jack Nicholson, 
+
+Shelley Duvall, Danny Lloyd và Scatman Crothers. Phim dựa trên cuốn tiểu thuyết cùng tên của nhà văn Stephen King. Giữa phim và tiểu thuyết có những sự khác nhau đáng kể: trong phim, Jack 
+
+Torrance là nhà văn và có công việc là trông coi khách sạn Overlook vào mùa đông.</p>
             <a href="https://youtu.be/FZQvIJxG9Xs?si=r9jP3f1LA946l_p2">triler The Shining  </a>
         </div>
         
@@ -98,7 +112,9 @@
             <img src="https://cdn-media.sforum.vn/storage/app/media/wp-content/uploads/2023/11/ke-an-hon-thumbnail.jpg" alt="Tên phim 4">
             <h2>Kẻ Ăn Hồn</h2>
             <p>Thể loại: kinh dị </p>
-            <p>giới thiệu:Kẻ ăn hồn là một bộ phim điện ảnh Việt Nam thuộc thể loại kinh dị cổ trang được chuyển thể từ tiểu thuyết cùng tên của nhà văn Thảo Trang ra mắt vào năm 2023 và là bộ phim kinh dị Việt có doanh thu phòng vé cao nhất tính đến hết năm 2023, </p>
+            <p>giới thiệu:Kẻ ăn hồn là một bộ phim điện ảnh Việt Nam thuộc thể loại kinh dị cổ trang được chuyển thể từ tiểu thuyết cùng tên của nhà văn Thảo Trang ra mắt vào năm 2023 và là bộ 
+
+phim kinh dị Việt có doanh thu phòng vé cao nhất tính đến hết năm 2023, </p>
             <a href="https://youtu.be/xWh0g4rKGjI?si=fidGnmq3wdLfyn8m">trailer Kẻ ăn hồn</a>
         </div>
         
@@ -106,7 +122,9 @@
             <img src="https://m.media-amazon.com/images/M/MV5BNTEyNmEwOWUtYzkyOC00ZTQ4LTllZmUtMjk0Y2YwOGUzYjRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" alt="Tên phim 5">
             <h2>Sen to Chihiro no Kamikakushi</h2>
             <p>Thể loại: tình cảm -phiêu lưu - siêu nhiên </p>
-            <p>giới thiệu:là một bộ phim điện ảnh hoạt hình kỳ ảo của Nhật Bản công chiếu năm 2001, do Miyazaki Hayao làm đạo diễn kiêm phụ trách kịch bản. Tác phẩm do xưởng phim Studio Ghibli sản xuất </p>
+            <p>giới thiệu:là một bộ phim điện ảnh hoạt hình kỳ ảo của Nhật Bản công chiếu năm 2001, do Miyazaki Hayao làm đạo diễn kiêm phụ trách kịch bản. Tác phẩm do xưởng phim Studio Ghibli 
+
+sản xuất </p>
             <a href="https://youtu.be/ByXuk9QqQkk?si=VbgDo0eNSKYzNcA6">trailer Sen to Chihiro no Kamikakushi </a>
         </div>
         
@@ -114,7 +132,9 @@
             <img src="https://i.scdn.co/image/ab67616d00001e02e710c1f5b228046932790031">
             <h2>shawshank redemption</h2>
             <p>Thể loại:chính kịch - tâm lý </p>
-            <p>giới thiệu: The Shawshank Redemption là bộ phim chính kịch - tâm lý của Hoa Kỳ phát hành vào ngày 22 tháng 9 năm 1994, do Frank Darabont viết kịch bản và đạo diễn, dựa trên tiểu thuyết của Stephen King </p>
+            <p>giới thiệu: The Shawshank Redemption là bộ phim chính kịch - tâm lý của Hoa Kỳ phát hành vào ngày 22 tháng 9 năm 1994, do Frank Darabont viết kịch bản và đạo diễn, dựa trên tiểu 
+
+thuyết của Stephen King </p>
             <a href="https://youtu.be/PLl99DlL6b4?si=8m-TaZ6KPZWZywlG">trailer shawshank redemption </a>
         </div>
 
@@ -122,4 +142,5 @@
         // Thêm nhiều phim hơn nếu muốn.
     </section>
 </body>
-</html
+</html>
+
